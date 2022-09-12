@@ -1,4 +1,4 @@
-<img  src="https://raw.githubusercontent.com/Keron-Dev/keron-dev.github.io/main/static/img/banner.gif" >
+<img  src="https://cdn.staticaly.com/gh/Keron-Dev/keron-dev.github.io/main/static/img/banner.gif" >
 
 ```
 >>> import this
