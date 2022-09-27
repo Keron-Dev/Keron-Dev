@@ -1,6 +1,6 @@
 <img  src="https://cdn.staticaly.com/gh/Keron-Dev/keron-dev.github.io/main/static/img/banner.gif" >
 
-# 什麼是世界上最遙遠的距離?不是生與死,而是知與行
+# <p align="center">什麼是世界上最遙遠的距離?不是生與死,而是知與行</p>
 
 ```
 >>> import this
